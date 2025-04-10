@@ -10,7 +10,7 @@ To finish this assignment, you will need to know how to make Blueprint for flask
 7. This time you will need to edit 
 8. push it back for the grade.
 
-
+ 
 
 
 Don't forget to use `pytest --pylint` to see if local tests are passed before you do the push.
